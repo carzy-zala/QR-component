@@ -23,12 +23,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - destkop version
 
-![](/Screenshot%202022-11-14%20at%2016-28-46%20Frontend%20Mentor%20QR%20code%20component.png)
+![](./images/Results/Destkop%20version.png)
 
 
 - mobile version
 
-![](/Screenshot%202022-11-14%20at%2016-29-23%20Frontend%20Mentor%20QR%20code%20component.png)
+![](./images/Results/mobile%20Version.png)
 
 
 ### Links
