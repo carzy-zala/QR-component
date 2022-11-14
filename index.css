@@ -1,6 +1,8 @@
+
 html {
   font-size: 62.5%;
   font-family: Outfit;
+  display: flexbox;
 }
 
 :root {
@@ -12,11 +14,11 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  /* height: 90vh; */
   background-color: hsl(212, 45%, 89%);
 }
 
 .card{
-    margin-top: 15rem;
     width: 17rem;
     height: 27rem;
     background-color: hsl(0, 0%, 100%);
@@ -46,7 +48,6 @@ body {
 }
 
 
-
 .heavy-font{
     color: var(--color-secondary);
     color: var(--color-secondary);
@@ -74,7 +75,6 @@ body {
      height:40rem;
      width: 25rem;
      border-radius: 20px;
-     
     }
  
     img{
