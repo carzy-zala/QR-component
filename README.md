@@ -27,6 +27,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 - mobile version
+
 ![](/Screenshot%202022-11-14%20at%2016-29-23%20Frontend%20Mentor%20QR%20code%20component.png)
 
 
@@ -42,7 +43,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 - Resposive
 
@@ -54,7 +54,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Continued development
 
-- You can improve design by being more precies in the value use for creating design.
+- You can improve design by being more precise in the value use for creating design.
 
 ### Useful resources
 
